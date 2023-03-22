@@ -7,6 +7,7 @@ Este script hecho en Python escanea un sitio web en busca de XSS y guarda la inf
 Dependencias
 
 > pip install requests
+
 > pip install beautifulsoup4
 
 ------------------------------------
