@@ -26,8 +26,8 @@ cookie (Opcional): La cookie que se utilizará para los requests.
 
 ------------------------------------
 TO DO LIST
-* opcion de pasarle una lista de payloads
-* codigo mas modular
-* mejor gestion de errores
-* mejorar la salida del codigo
+* Opción de pasarle una lista de payloads
+* Código mas módular
+* Mejor gestión de errores
+* Mejorar la salida del código
 ------------------------------------
