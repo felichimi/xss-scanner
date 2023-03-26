@@ -1,6 +1,6 @@
 # xss_scanner
 
-Este script hecho en Python escanea un sitio web en busca de XSS y guarda la información en un archivo de texto. El script se ejecuta de manera recursiva en todos los links del mismo dominio y utiliza múltiples hilos para agilizar el proceso.
+Este script escanea un sitio web en busca de XSS y guarda la información en un archivo de texto. El script se ejecuta de manera recursiva en todos los links del mismo dominio y utiliza múltiples hilos para agilizar el proceso.
 
 ------------------------------------
 
